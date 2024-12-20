@@ -1,0 +1,12 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    width: 400px;
+    height: 400px;
+    background: rgb(232, 235, 235);
+    color: rgb(14, 14, 72);
+    font-size: 20px;
+}
